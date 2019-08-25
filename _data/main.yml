@@ -1,9 +1,9 @@
 # Image, name, profession in the sidebar
 
 image: /assets/images/author-image.jpg
-name: John Doe
-profession: A Web Developer
-email: john@doe.com # The contact form submissions will be received in this email address.
+name: Yashwanth Yellapragada
+profession: A DevOps Engineer
+email: yyellapragada@gmail.com # The contact form submissions will be received in this email address.
 
 # Menu items in the sidebar
 # Use a maximum of 3 items
@@ -41,30 +41,30 @@ social:
 
 
 expertise:
-  - title: HTML5
-    level: 45
+  - title: Amazon Web Services
+    level: 75
     color: rgb(247, 205, 182)
 
-  - title: CSS3
+  - title: Python
     level: 65
     color: rgb(113, 178, 222)
 
-  - title: jQuery
-    level: 50
+  - title: SQL
+    level: 60
     color: rgb(80, 185, 185)
 
-  - title: PHP
+  - title: Docker
     level: 40
     color: rgb(124, 142, 222)
 
-  - title: WordPress
-    level: 75
+  - title: CI/CD
+    level: 60
     color: rgb(160, 158, 158)
 
-  - title: SEO
-    level: 90
+  - title: Ansible
+    level: 50
     color: rgb(112, 195, 148)
 
   - title: Photoshop
-    level: 70
+    level: 60
     color: rgb(230, 133, 172)
