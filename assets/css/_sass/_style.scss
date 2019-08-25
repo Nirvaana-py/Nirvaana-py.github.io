@@ -280,7 +280,7 @@ a.nostyle {
 
 .blog {
     display: grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1fr;
     grid-gap: 10px;
     margin-bottom: 1.25em;
     @include media-query($on-palm) {
