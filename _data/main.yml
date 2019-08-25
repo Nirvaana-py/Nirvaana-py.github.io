@@ -1,6 +1,6 @@
 # Image, name, profession in the sidebar
 
-image: /assets/images/author-image.jpg
+image: /assets/images/Yashwanth.jpg
 name: Yashwanth Yellapragada
 profession: A DevOps Engineer
 email: yyellapragada@gmail.com # The contact form submissions will be received in this email address.
@@ -24,19 +24,11 @@ menu:
 social:
   facebook:
        icon: fa-facebook-square
-       link: https://facebook.com
-
-  twitter:
-      icon: fa-twitter
-      link: https://twitter.com
+       link: https://www.facebook.com/yashwanth.yellapragada
 
   linkedin:
       icon: fa-linkedin
-      link: https://linkedin.com
-
-  github:
-      icon: fa-github
-      link: https://github.com
+      link: https://www.linkedin.com/in/yyellapragada/
 
 
 
